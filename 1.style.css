@@ -1,0 +1,13 @@
+table{
+   
+    background-color: white;
+    border-collapse: collapse;
+    cellpading:"5";
+    text-align: center;
+}
+body{
+    background-color:black;
+}
+caption{
+    background-color: white;
+}
